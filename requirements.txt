@@ -1,0 +1,6 @@
+pytz
+pyowm
+streamlit
+matplotlib
+datetime
+plotly
